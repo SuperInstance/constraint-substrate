@@ -2,7 +2,7 @@
 
 **The 5 irreducible constraint primitives. Zero dependencies. Three languages.**
 
-This is the extracted, standalone core of [constraint-theory-core](https://github.com/your-org/constraint-theory-core) — the mathematical substrate that everything else builds on.
+This is the extracted, standalone core of [constraint-theory-core](https://github.com/SuperInstance/constraint-theory-core) — the mathematical substrate that everything else builds on.
 
 ## What It Is
 
