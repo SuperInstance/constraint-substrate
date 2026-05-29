@@ -104,3 +104,7 @@ cp include/constraint_substrate.h src/constraint_substrate.c /your/project
 ## License
 
 MIT
+
+## Documentation
+
+📚 [OpenConstruct Docs](https://github.com/SuperInstance/openconstruct-docs)
